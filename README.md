@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wyverncodes
+- 👋 Hi, I’m wyvern
 - 👀 I’m interested in FRONT END DEV
 - 🌱 I’m currently learning HTML CSS JAVASCRIPT
 - 💞️ I’m looking to collaborate on FRONT END PROJECTS

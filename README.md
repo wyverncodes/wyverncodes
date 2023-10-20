@@ -1,5 +1,5 @@
 - 👋 Hi, I’m wyvern
-- 👀 I’m interested in FRONT END DEV
+- 👀 I’m interested in FULL-STACK
 - 🌱 I’m currently learning HTML CSS JAVASCRIPT
 - 💞️ I’m looking to collaborate on FRONT END PROJECTS
 

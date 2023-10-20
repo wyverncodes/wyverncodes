@@ -1,7 +1,8 @@
 - 👋 Hi, I’m wyvern
 - 👀 I’m interested in FULL-STACK
-- 🌱 I’m currently learning HTML CSS JAVASCRIPT
+- 🌱 I’m currently learning Tailwind, JQuery,NextJS and ReactJS.
 - 💞️ I’m looking to collaborate on FRONT END PROJECTS
+- 📁 Skills: HTML, CSS, JAVASCRIPT, BOOTSTRAP, Git-Github.
 
 
 <!---
